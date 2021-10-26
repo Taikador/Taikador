@@ -1,5 +1,7 @@
 ### Hi there, I'm Noah - aka Taikador 👋
 
+<br />
+
 ## I'm a Student and Developer!
 - 🔨 I'm currently working on my Discord Bot
 - 📖 I'm currently learning Python and soon I will start learning Java!
