@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer!
 - 🔨 I'm currently working on my Discord Bot
-- 📖 I'm currently learning Python and soon I will start learning Java!
+- 📖 I'm currently learning Python and for school I'm learning C++
 - 🕹️ Personal interests: I like to play games with friends and do my archery sport
 
 <br />
