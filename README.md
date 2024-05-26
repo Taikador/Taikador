@@ -1,11 +1,11 @@
-### Hi there, I'm Noah - aka Taikador 👋
+### Hi there, I'm Noah 👋
 
 <br />
 
-## I'm a Student and Developer!
-- 🔨 I'm currently working on my Discord Bot
-- 📖 I'm currently learning Python and for school I'm learning C++
-- 🕹️ Personal interests: I like to play games with friends and do my archery sport
+## I'm a Test Engineer and Developer!
+- 🔨 Automate everything!
+- 📖 Learning everything regarding Test Engineering and Test Automation.
+- 🕹️ Personal interests: Scripting
 
 <br />
 
